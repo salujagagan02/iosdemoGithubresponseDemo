@@ -16,6 +16,7 @@
 		184AC95624CADA4100979EDB /* iosdemoGithubresponseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184AC95524CADA4100979EDB /* iosdemoGithubresponseTests.swift */; };
 		184AC96124CADA4100979EDB /* iosdemoGithubresponseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184AC96024CADA4100979EDB /* iosdemoGithubresponseUITests.swift */; };
 		184AC96F24CADBE100979EDB /* SecondTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184AC96E24CADBE100979EDB /* SecondTabViewController.swift */; };
+		184AC97124CADE3900979EDB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184AC97024CADE3900979EDB /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		184AC96024CADA4100979EDB /* iosdemoGithubresponseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosdemoGithubresponseUITests.swift; sourceTree = "<group>"; };
 		184AC96224CADA4100979EDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		184AC96E24CADBE100979EDB /* SecondTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondTabViewController.swift; sourceTree = "<group>"; };
+		184AC97024CADE3900979EDB /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				184AC94724CADA4100979EDB /* Assets.xcassets */,
 				184AC94924CADA4100979EDB /* LaunchScreen.storyboard */,
 				184AC94C24CADA4100979EDB /* Info.plist */,
+				184AC97024CADE3900979EDB /* ThirdViewController.swift */,
 			);
 			path = iosdemoGithubresponse;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				184AC94324CADA4000979EDB /* ViewController.swift in Sources */,
 				184AC93F24CADA4000979EDB /* AppDelegate.swift in Sources */,
+				184AC97124CADE3900979EDB /* ThirdViewController.swift in Sources */,
 				184AC96F24CADBE100979EDB /* SecondTabViewController.swift in Sources */,
 				184AC94124CADA4000979EDB /* SceneDelegate.swift in Sources */,
 			);
