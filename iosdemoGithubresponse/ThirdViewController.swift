@@ -1,5 +1,7 @@
+
+
 //
-//  SecondTabViewController.swift
+//  ThirdViewController.swift
 //  iosdemoGithubresponse
 //
 //  Created by Apple on 24/07/20.
@@ -8,15 +10,12 @@
 
 import UIKit
 
-class SecondTabViewController: UIViewController {
+class ThirdViewController: UIViewController {
 
-    @IBOutlet weak var lblTitle: UILabel!
-    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        lblTitle.text = "test second tab"
     }
     
 
